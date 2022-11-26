@@ -8,3 +8,7 @@ E sou um desenvolvedor web front-end.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]()<img src="https://komarev.com/ghpvc/?username=eduhbarb&color=brightgreen" alt="watching_count" />
+
+#
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1?si=6bd726846e4f43a6)
