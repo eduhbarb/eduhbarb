@@ -11,4 +11,4 @@ E sou um desenvolvedor web front-end.
 
 #
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1?si=6bd726846e4f43a6)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB?si=geTYb6VtSiSe0F-nlOh8vQ)
