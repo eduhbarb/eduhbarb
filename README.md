@@ -1,6 +1,6 @@
 
-# Olá! Eu sou o Eddie´.. ☕
-Eu sou uma pessoa desenvolvedora full-stack...
+# Olá! Eu sou o Eddie. ☕
+E sou um desenvolvedor web front-end.
 
 ## 🌐 Outras redes que você pode me encontrar:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
