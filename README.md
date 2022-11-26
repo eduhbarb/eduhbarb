@@ -9,6 +9,9 @@ E sou um desenvolvedor web front-end.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]()<img src="https://komarev.com/ghpvc/?username=eduhbarb&color=brightgreen" alt="watching_count" />
 
-#
+#### Github Stats
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB?si=geTYb6VtSiSe0F-nlOh8vQ)
+<img src="https://github-readme-stats.vercel.app/api?username={eduhbarb}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+
+## ☕ Linguagens mais usadas:
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduhbarb&layout=compact)
